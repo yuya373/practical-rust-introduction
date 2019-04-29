@@ -1,0 +1,10 @@
+[package]
+name = "bitonic-sorter"
+version = "0.1.0"
+authors = ["Yuya Minami <yuya373@me.com>"]
+edition = "2018"
+
+[dependencies]
+rand_pcg = "0.1.2"
+rand = "0.6.5"
+rayon = "1.0.3"
